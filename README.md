@@ -19,8 +19,7 @@
 
 | Mass Ban |
 | ------------- | ------------- | ------------- |
-| ![Mass Ban] (https://imgur.com/PBHOmR1) |
-
+|        |
 # Requirements Before Set-up:
 
 1. [Node.JS v16+](https://nodejs.org/en/) installed.
