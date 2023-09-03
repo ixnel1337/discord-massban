@@ -2,7 +2,7 @@
 
 | Atrium | 
 | ------------- | 
-| ![Atrium](https://imgur.com/dda0tRR) |
+| ![Atrium](https://i.imgur.com/dda0tRR.png) |
 
 ## Features:
 1. `✅` `Ban All Members`
@@ -18,8 +18,9 @@
 # Show Case: 
 
 | Mass Ban |
-| ------------- | ------------- | ------------- |
-|        |
+
+![MassBan](https://i.imgur.com/PBHOmR1.mp4)
+    
 # Requirements Before Set-up:
 
 1. [Node.JS v16+](https://nodejs.org/en/) installed.
