@@ -1,8 +1,8 @@
 const { request, lineReader, readline, axios, fs, rp, centerAlign, figlet, eachLinePromise } = require('./includes');
 const { displayMenu, handleUserInput, rl } = require('./menu');
 
-let token = "MTE0Njg1NjM0NTM4ODIwODE2OQ.GQFP-h.HEI52eauwUt77reIuUHHCq0NP51Fj1LfNkk1dE";
-let guildID = "1147880624347164753";
+let token = "token ";
+let guildID = "server id";
 
 clearAndShowMenu();
 
