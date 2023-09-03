@@ -55,3 +55,6 @@ This is tool was made for educational purposes and proof of concepts. I'm not ac
 
 ## Tip
 Try to make pause between testing. Any more than that will result in the hoster of the tool discord to lag or be rate limited for 30 mins - 2hrs ;)
+
+## Pull Requests
+Pull requests are welcome, just do it
