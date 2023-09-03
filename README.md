@@ -19,7 +19,7 @@
 
 | Mass Ban |
 
-![MassBan](https://i.imgur.com/PBHOmR1.mp4)
+![MassBan](https://imgur.com/PBHOmR1)
     
 # Requirements Before Set-up:
 
